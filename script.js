@@ -105,7 +105,7 @@ $('.blog-slider').slick({
     dots: false,
     arrows: arrowmark,
     autoplay: true,
-    autoplaySpeed: 1000,
+    autoplaySpeed: 2000,
     infinite: true
 });
 
